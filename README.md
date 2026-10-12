@@ -3,7 +3,9 @@ This repository is intended as supplementary material for the paper: ULGNN: An U
 
 These images were added to illustrate the segmentation results across multiple rounds on different datasets. We present five examples, where the red contours represent the predicted segmentations and the green contours represent the ground-truth masks.
 
-## Qualitative Results
+
+
+## Qualitative Results (You can click on the images to get a closer look at the segmentation results and performance across different rounds.)
 
 ### Example 1 — CVC-ClinicDB (9 Rounds)
 
