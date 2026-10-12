@@ -1,4 +1,8 @@
 # ULGNN-An-Ultra-Lightweight-Graph-Neural-Network-for-Annotation-Free-Skin-Lesion-Segmentation
+<p align="center">
+  <img src="approach.png" alt="Overview of the proposed ULGNN approach" width="900">
+</p>
+
 This repository is intended as supplementary material for the paper: ULGNN: An Ultra-Lightweight Graph Neural Network for Annotation-Free Skin Lesion Segmentation.
 
 These images were added to illustrate the segmentation results across multiple rounds on different datasets. We present five examples, where the red contours represent the predicted segmentations and the green contours represent the ground-truth masks.
