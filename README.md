@@ -9,7 +9,7 @@ This repository is intended as supplementary material for the paper: ULGNN: An U
   <img src="Example_01_CVC_9_rounds.png" width="900" alt="CVC-ClinicDB results across 9 rounds">
 </p>
 
-### Example 2 — ISIC (14 Rounds)
+### Example 2 — ISIC17 (14 Rounds)
 
 <p align="center">
   <img src="Example_02_ISIC_14_rounds.png" width="900" alt="ISIC results across 14 rounds">
