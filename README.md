@@ -1,5 +1,8 @@
 # ULGNN-An-Ultra-Lightweight-Graph-Neural-Network-for-Annotation-Free-Skin-Lesion-Segmentation
 
+<p align="center">
+  <img src="ULGNN_UNet.png" alt="Overview of the proposed ULGNN approach" width="900">
+</p>
 
 This repository is intended as supplementary material for the paper: ULGNN: An Ultra-Lightweight Graph Neural Network for Annotation-Free Skin Lesion Segmentation.
 
