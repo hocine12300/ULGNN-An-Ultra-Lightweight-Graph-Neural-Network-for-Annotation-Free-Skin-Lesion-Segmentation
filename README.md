@@ -1,6 +1,8 @@
 # ULGNN-An-Ultra-Lightweight-Graph-Neural-Network-for-Annotation-Free-Skin-Lesion-Segmentation
 This repository is intended as supplementary material for the paper: ULGNN: An Ultra-Lightweight Graph Neural Network for Annotation-Free Skin Lesion Segmentation.
 
+These images were added to illustrate the segmentation results across multiple rounds on different datasets. We present five examples, where the red contours represent the predicted segmentations and the green contours represent the ground-truth masks.
+
 ## Qualitative Results
 
 ### Example 1 — CVC-ClinicDB (9 Rounds)
@@ -27,20 +29,8 @@ This repository is intended as supplementary material for the paper: ULGNN: An U
   <img src="Example_04_Kvasir_12_rounds.png" width="900" alt="Kvasir segmentation results across 12 rounds">
 </p>
 
-### Example 5 — CVC-ClinicDB (9 Rounds)
-
-<p align="center">
-  <img src="Example_05_CVC_9_rounds.png" width="900" alt="CVC-ClinicDB results across 9 rounds">
-</p>
-
-### Example 6 — ISIC16
+### Example 5 — ISIC16
 
 <p align="center">
   <img src="Example_06_ISIC16_.png" width="900" alt="ISIC16 segmentation results">
-</p>
-
-### Example 7 — PH2
-
-<p align="center">
-  <img src="Example_6_PH2.png" width="900" alt="PH2 segmentation results">
 </p>
