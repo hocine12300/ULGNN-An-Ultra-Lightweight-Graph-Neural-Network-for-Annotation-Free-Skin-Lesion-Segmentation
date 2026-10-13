@@ -11,6 +11,7 @@ These images were added to illustrate the segmentation results across multiple r
 
 
 ## Qualitative Results (You can click on the images to get a closer look at the segmentation results and performance across different rounds.)
+### Additional images are available in the folders named after each dataset and can be viewed for further examples.
 
 ### Example 1 — CVC-ClinicDB (9 Rounds)
 
